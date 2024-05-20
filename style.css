@@ -1,0 +1,12 @@
+.body_title {
+    color: indigo;
+    text-align: center;
+}
+
+.top_img {
+    height: 500px;
+}
+
+p, ul, ol {
+    text-align: center;
+}
